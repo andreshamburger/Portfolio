@@ -594,6 +594,18 @@ footer p {
   }
 
   /* MQ 480 Projects */
+
+  #projects.sect_text1,
+  #projects.title {
+    text-align: center;
+  }
+
+  .project-article{
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+  }
+
   .project-img {
     border-radius: 11px;
     width: 200px;
