@@ -341,6 +341,7 @@ footer p {
 
   #profile {
     gap: 3.8rem;
+    height: 80dvh;
   }
 
   .profile_pic {
@@ -381,6 +382,12 @@ footer p {
   .text-container p {
     font-size: 1.1rem;
     line-height: 1.8rem;
+  }
+
+  /* MQ 992 Experience */
+
+  #experience {
+    height: 90dvh;
   }
 
   /* MQ 992 Projects */
@@ -430,6 +437,7 @@ footer p {
 
   #profile {
     gap: 3.6rem;
+    height: 75dvh;
   }
 
   .profile_pic {
@@ -482,6 +490,7 @@ footer p {
   /* MQ 768 Experience */
 
   #experience {
+    height: 100dvh;
     margin-bottom: 5rem;
   }
 
@@ -497,13 +506,14 @@ footer p {
   /* MQ 480 Header */
 
   .header .logo {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
   }
 
   /* MQ 480 Profile */
 
   #profile {
     gap: 3.6rem;
+    height: 100dvh;
     flex-direction: column;
   }
 
@@ -593,7 +603,7 @@ footer p {
     gap: 1.5rem;
   }
 
-    /* MQ 480 Footer */
+  /* MQ 480 Footer */
   footer {
     padding: 85px;
   }
