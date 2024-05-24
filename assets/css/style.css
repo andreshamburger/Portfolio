@@ -399,6 +399,17 @@ footer p {
 
 @media only screen and (max-width: 768px) {
 
+  /* MQ 768 General */
+  section {
+    padding: 2rem;
+  }
+
+  /* #about,
+  #experience,
+  #projects {
+    padding: 1rem;
+  } */
+
   /* MQ 768 Header */
 
   #menu-btn {
